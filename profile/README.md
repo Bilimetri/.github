@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Bilimetri'nin resmi GitHub sayfasına hoş geldiniz! Bilimetri, GitHub sayfasını bazı açık kaynak kodlarını paylaşmak, herkese açık API paylaşmak gibi amaçlar ile kullanmaktadır. Bilimetri'de yazılım geliştiricilere GitHub üzerinden ulaşabilirsiniz.<br><br>Bilimetri, başta Türkçe olmak üzere bilimsel makaleler ve bilimsel içerikler yayınlamak ve diğer bilim projelerini tamamen ücretsiz bir şekilde diğer kullanıcılara sunmak amaçlı oluşturulmuştur. Türkiye'de bilimin gelişmesi ve bilimin doğru anlaşılabilmesi için elinden gelen her şeyi yapmayı hedefleyen Bilimetri, bu amaçlarına ulaşmak için hiçbir şekilde çekinmeyeceğini ve geri adam atmayacağını bildirmektedir. Bilimetri olarak bilimsel içeriklerin sayısını arttırmayı ve Türkçe olarak paylaşılan bilimsel makale ve bilimsel içerik sayısını arttırmayı hedefliyoruz.<br><br>Daha fazla bilgi almak için sitemizi ziyaret edebilirsiniz: bilimetri.org</p>
+<p align="left">Welcome to Bilimetri's official GitHub page! Bilimetri uses GitHub to share some open source code and public APIs. You can reach the software developers at Bilimetri via GitHub.<br><br>Bilimetri was created to publish scientific articles and scientific content, primarily in Turkish, and to offer other science projects to other users completely free of charge. Bilimetri, which aims to do everything in its power for the development of science in Turkey and the correct understanding of science, declares that it will not hesitate and will not back down in any way to achieve these goals. As Bilimetri, we aim to increase the number of scientific content and to increase the number of popular science articles and scientific content shared in Turkish.<br><br>For more information, please visit our website: bilimetri.org</p>
 
 ###
 
-<h5 align="left">Sosyal Medya Hesaplarımız</h5>
+<h5 align="left">Our Social Media Accounts</h5>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h5 align="center">GitHub Profil Görüntülenme İstatistikleri</h5>
+<h5 align="center">GitHub Profile Views Statistics</h5>
 
 ###
 
